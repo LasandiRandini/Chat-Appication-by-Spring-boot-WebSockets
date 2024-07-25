@@ -1,6 +1,6 @@
 package com.lara.chat.chat;
 
-public enum MassageType {
+public enum MessageType {
 
     CHAT,
 
