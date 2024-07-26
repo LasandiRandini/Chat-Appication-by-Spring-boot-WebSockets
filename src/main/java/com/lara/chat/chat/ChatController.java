@@ -20,6 +20,7 @@ public class ChatController {
     ){
 return chatMassage;
     }
-
-
+    public ChatMessage addUser(
+            @Payload
+    )
 }
