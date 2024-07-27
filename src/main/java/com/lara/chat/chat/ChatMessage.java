@@ -9,8 +9,8 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class ChatMassage {
+public class ChatMessage {
     private String content;
     private  String sender;
-    private MassageType type;
+    private MessageType type;
 }
